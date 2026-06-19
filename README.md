@@ -3,13 +3,13 @@
 An IoT-based motor health monitoring system using ESP32, Firebase, and real-time sensor monitoring for predictive maintenance.
 
 ## Features
-✅ Current Monitoring
-✅ Temperature Monitoring
-✅ Vibration Monitoring
-✅ Fault Detection
-✅ Firebase Cloud Integration
-✅ Auto/Manual Control
-✅ Alarm & Buzzer Alerts
+Current Monitoring
+Temperature Monitoring
+Vibration Monitoring
+Fault Detection
+Firebase Cloud Integration
+Auto/Manual Control
+Alarm & Buzzer Alerts
 
 ## System Architecture
 [Insert architecture image]
