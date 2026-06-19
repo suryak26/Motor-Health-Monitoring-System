@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Arduino build files
+build/
+*.elf
+*.bin
+*.hex
+
+# Temporary files
+*.tmp
+*.log
+
+# Firebase secrets
+secrets.h
+config.h
+
+# Python cache
+__pycache__/
+*.pyc
